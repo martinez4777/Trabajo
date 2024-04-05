@@ -36,7 +36,7 @@
 
                     <div class="">
                         <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
-                        <button type="submit" class="btn btn-primary"><i class="fa-solid fa-floppy-disk"></i> Guardar</button>
+                        <button type="submit" class="btn btn-primary"> Guardar</button>
                     </div>
 
                 </form>
