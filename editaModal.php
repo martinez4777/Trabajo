@@ -42,7 +42,7 @@
 
                     <div class="d-flex justify-content-end pt2">
                         <button type="button" class="btn btn-secondary me-1" data-bs-dismiss="modal">Cerrar</button>
-                        <button type="submit" class="btn btn-primary ms-1"><i class="fa-solid fa-floppy-disk"></i> Guardar</button>
+                        <button type="submit" class="btn btn-primary ms-1"> Guardar</button>
                     </div>
 
                 </form>
